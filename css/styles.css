@@ -1,14 +1,57 @@
- h1{
-        color: brown;
-        text-align: center;
-    }
+* {
+    padding: 0;
+    margin: 0;
+}
 
-    h2{
-        padding-left: 40px;
-        padding-right: 40px;
-        margin-left: 10px;
-    }
+h1 {
+    color: brown;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.cta-1 {
+    text-decoration: underline;
+    padding-bottom: 160px;
+}
+
+h3 {
+    padding-left: 40px;
+    padding-right: 10px;
+    padding-top: 100px;
+}
+
+.home-pg {
+    background-repeat: no-repeat;
+    background-image: url(../img/4.jpg);
+    height: 180vh;
+    width: 100%;
+    background-size: cover;
+    padding-left: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
 
+.home-cta {
+    padding: 10px 30px
+}
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.home-cta ul {
+    list-style: none;
+    display: inline-flex;
+}
+
+.home-cta li{
+    padding-right: 15px;
+}
+
+.cta-content{
+    padding: 10px 30px;
+}
 
