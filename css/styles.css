@@ -6,7 +6,7 @@
 
 
 .logo {
-    padding-bottom: 160px;
+    padding-top: 20px;
 }
 
 h3 {
@@ -16,14 +16,14 @@ h3 {
 .home-pg {
     background-repeat: no-repeat;
     background-size: cover;
-    height: 180vh;
-    width: 100px;
-    background-image: url("../img/4.jpg");
+    height: 100vh;
+    width: 100%;
+    background-image: url("../img/6.jpg");
 }
 
 
 .home-cta {
-    padding: 10px 30px
+    padding: 10px 
 }
 
 a {
@@ -36,10 +36,11 @@ a {
     display: inline-flex;
 }
 
-.home-ct li {
-    align-items: center;
-    justify-content: space-between;
+.home-ct li{
+    padding-right: 20px;
 }
+   
+
 
 .cta-content {
     padding: 10px 30px;
@@ -49,5 +50,5 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 5px 15px;
+    padding: 10px 30px;
 }
