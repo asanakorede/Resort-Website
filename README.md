@@ -26,7 +26,6 @@ Welcome to my project! This project enables users to have basic information abou
 
 * MIT
 
-Copyright(c) 2023 Asana Korede
 
 >## Contact Information
 * Phone: 09138775440
