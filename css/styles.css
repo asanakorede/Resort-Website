@@ -10,9 +10,7 @@
 }
 
 h3 {
-    padding-left: 40px;
-    padding-right: 10px;
-    padding-top: 100px;
+    color: blue;
 }
 
 .home-pg {
@@ -29,7 +27,7 @@ h3 {
 }
 
 a {
-    color: white;
+    color: blue;
     text-decoration: none;
 }
 
@@ -39,7 +37,8 @@ a {
 }
 
 .home-ct li {
-    padding-right: 15px;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .cta-content {
