@@ -30,4 +30,4 @@ Copyright(c) 2023 Asana Korede
 
 >## Contact Information
 * Phone: 09138775440
-* Email: asanakorededaniel@gmail.com
+* Email: asanakorededaniel@gmail.com# Resort-Website
