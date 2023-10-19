@@ -4,7 +4,7 @@
 }
 
 h1 {
-    color: brown;
+    color: green;
     text-align: center;
     padding-top: 100px;
 }
@@ -15,9 +15,7 @@ h1 {
 }
 
 h3 {
-    padding-left: 40px;
-    padding-right: 10px;
-    padding-top: 100px;
+
 }
 
 .home-pg {
@@ -34,11 +32,11 @@ h3 {
 
 
 .home-cta {
-    padding: 10px 30px
+    
 }
 
 a {
-    color: white;
+    color: green;
     text-decoration: none;
 }
 
