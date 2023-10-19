@@ -1,16 +1,11 @@
 * {
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
 
-h1 {
-    color: brown;
-    text-align: center;
-    padding-top: 100px;
-}
 
-.cta-1 {
-    text-decoration: underline;
+.logo {
     padding-bottom: 160px;
 }
 
@@ -22,14 +17,8 @@ h3 {
 
 .home-pg {
     background-repeat: no-repeat;
-    background-image: url(../img/4.jpg);
-    height: 180vh;
-    width: 100%;
-    background-size: cover;
-    padding-left: 10px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    background-image: url(../img/6.jpg)
+    hei
 }
 
 
@@ -42,16 +31,22 @@ a {
     text-decoration: none;
 }
 
-.home-cta ul {
+.home-ct ul {
     list-style: none;
     display: inline-flex;
 }
 
-.home-cta li{
+.home-ct li {
     padding-right: 15px;
 }
 
-.cta-content{
+.cta-content {
     padding: 10px 30px;
 }
 
+.home-ct {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 15px;
+}
